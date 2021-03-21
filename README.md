@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=Hadoop&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=Apache Hive&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Kafka-E25A1C?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
