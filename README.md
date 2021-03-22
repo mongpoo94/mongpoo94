@@ -4,7 +4,7 @@
 
 <h3 align="center"> 2020/2 ~ </h3>
 <p align="center"> Software developer in TmaxData</p>
-<p align="center"> Develop Data layer (Table / Index / Lob / DP)</p>
+<p align="center"> Develop Tibero(RDBMS) in Core team. Develop Data layer (Table / Index / Lob / DP)</p>
 
 <h3 align="center"> 2018/11 ~ 2019/12 </h3>
 <p align="center"> Game client developer in 111percent</p>
