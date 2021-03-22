@@ -7,8 +7,8 @@
 <p align="center"> Develop Data layer (Table / Index / Lob / DP)</p>
 
 <h3 align="center"> 2018/11 ~ 2019/12 </h3>
-<p align="center"> Game Client developer in 111percent</p>
-<p align="center"> develop hyper-casual mobile games </p>
+<p align="center"> Game client developer in 111percent</p>
+<p align="center"> Develop hyper-casual mobile games </p>
 
 <br>
 
