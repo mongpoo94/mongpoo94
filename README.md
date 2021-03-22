@@ -6,6 +6,10 @@
 <p align="center"> Software developer in TmaxData</p>
 <p align="center"> Develop Data layer (Table / Index / Lob / DP)</p>
 
+<h3 align="center"> 2018/11 ~ 2019/12 </h3>
+<p align="center"> Game Client developer in 111percent</p>
+<p align="center"> develop hyper-casual mobile games </p>
+
 <br>
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
